@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartplant-332722",
+  "private_key_id": "dad685910063a6bd243b885fbd9be714b434d677",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLDveFaAMycM7M\nm85nlhsKQnuAtxYhRV45fEieQYKs3hn4WjMAhJSCaYVOKH3NPgq+Fxcaq70HgHUM\nvAGciZyh5jXChmRpWxxgmL26gmjcHXE80KIZpFKDIYgUeiO7XlwrYmctNNZL4D9J\nw6c8gyrJov71cEepp20pHljzsfNv1FT2aKptQ4T+cOZSiwGe+BieO3c47G5UuHqR\n39+If0QFz4LwsKYmVZYhNs3+VCk4pPG0ihLRgOni6XpWRrJb7XohRIsGVAGFxK5q\nMoCaGwB9/q7/TmiM4Ec9h6WaY/Mi3Sefh+3M+N40IsGmPeGPH8+qkUJdDT7/dnEE\nNAGNtQpLAgMBAAECggEAMTucUOQxdZNQ9EoZer0/V5OQLFMmB6OKp6mkADvLay67\nXR16Py2xcravVqupVpgnr4N3T58MLvLA/kA2BdkG1p8t23A/brmuQ1jwm27+dygJ\nZnGrYo62E+00Q6O2sOjIkyekxfGWCYkcfx5BQIBkDr2hrP4SsTMwx8UR0z3mpWmu\n/NsyHL95XBalmiiF25jjeGYUGdIUGJxBchyU/vBs3B2JFi1qYWxkYb6iVjyrF9kr\nQHDLDCAFhDrzn4UINv5M+eFBIJXtWewSYKN9yZCfPtW4ndFiwTBZEWHptwFj4dE1\nUNNHZHaA/PLaJc4Gwju9V+Z3/a3LQs7LJCeKTR1ysQKBgQDCjTGl8sBNJkbH9w4+\nlSCq7Btsapysb5rmA4gBrUFwO08Rch/XwWqe9efO7tsbmEizth5kj7kE9lVBB+RI\nMBnkqHbsOYXah984+S168hFBjvBkTtsOYOwYDirJTIZqfPTeysGALw/6fpJist7z\nGlsaLPFSUgzaJYIZQ9gNaW9sCQKBgQC2+sh0oVTYUzSBDNp3JtmoC+UkaixuM591\n9+VrZ58Y0aLBAHPIe3X78eoZHzeL3GY52YaNRN6Mjr+sc/eB4YYyx3o12CWLvHzZ\n3hgHAHanvL7WdgqkaCNWNj9hENn11waJIaWaOfC6oNACLW+VzXrNnOqkyO1L4H8Y\nVX8caoiAswKBgAQbxzih772xWT1P0lUwAQibA9k+RyC9GqBQ4sZmSkN8fSb5KgL8\naqwAtWyBTs8+YAqrhejJwDaCnTpKWF/N5D4X8Kr8a/85b1VcrcEy63pe8mSr5aRg\nF5xKcEzf+Na23NT3oy55z/SSR7Ud4edwXwwmdtIuOWdB84VlEWL3HwtBAoGAFHIj\nUfzw+RcbB8yC4MuDiKaDnTUL7+huygTAKucyPNi34e8GAQHiphta+CGn2EXxWkd3\nJHPsljIhMsjmgCnOEACAJGIZl+qg3MtXTfj8STPq8xXPjJ1iTXDUVilG4ZR8U3hi\nA8CzqHbtp0Cidk+2iCEfivg0o8TbDsIG6QryY8cCgYEAmNkg8XyXTMrC73UaxOPj\nLuw3hZb3jSFU/Pm/gY+snYNNACU95osYhuvBaFkDAFstgt4dwjV+YhkvYaW2VGF+\nnlJhliNwpu2MK+CqBcvXLzbgI54Rbjd+qe/XOeDqjHwiQTVOGjrHhWd3/XXfCs4y\nDIKe+nAGTpRdDmagFzhEM5c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "michipichi17@smartplant-332722.iam.gserviceaccount.com",
+  "client_id": "100374070409921120753",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/michipichi17%40smartplant-332722.iam.gserviceaccount.com"
+}
